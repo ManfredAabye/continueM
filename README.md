@@ -14,6 +14,10 @@
   <img src="media/github-readme.png" alt="Banner" />
 </p>
 
+## 🚧 The translation into other languages ​​is missing; this should have been considered from the beginning. 🚧
+
+## 🚧 The modeling software needs to be expanded so that Hugging Face can be used offline. 🚧
+
 ## What is Continue?
 
 > _Note: The `continuedev/continue` repository is no longer actively maintained and is read-only for all users._
