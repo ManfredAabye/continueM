@@ -14,9 +14,9 @@
   <img src="media/github-readme.png" alt="Banner" />
 </p>
 
-## 🚧 The translation into other languages ​​is missing; this should have been considered from the beginning. 🚧
+## 🚧 The translation into other languages ​​is missing; this should have been considered from the beginning.
 
-## 🚧 The modeling software needs to be expanded so that Hugging Face can be used offline. 🚧
+## 🚧 It needs to be expanded so that Hugging Face Models can be used offline.
 
 ## What is Continue?
 
